@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Blaxzter
-- 👀 I’m interested in finishing my master
-- 🌱 I’m currently learning GAN's
+- 👋 Hi, I’m @Blaxzter / Frederic Abraham
+- 👀 I’m interested in finding a interessting and challanging job
+- 🌱 I’m currently applying to new jobs
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me mail@fabraham.dev
 
